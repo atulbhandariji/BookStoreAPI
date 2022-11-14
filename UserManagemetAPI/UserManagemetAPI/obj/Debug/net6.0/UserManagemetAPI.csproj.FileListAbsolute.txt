@@ -60,3 +60,5 @@ E:\angular\UserManagemetAPI\UserManagemetAPI\UserManagemetAPI\obj\Debug\net6.0\r
 E:\angular\UserManagemetAPI\UserManagemetAPI\UserManagemetAPI\obj\Debug\net6.0\UserManagemetAPI.pdb
 E:\angular\UserManagemetAPI\UserManagemetAPI\UserManagemetAPI\obj\Debug\net6.0\UserManagemetAPI.genruntimeconfig.cache
 E:\angular\UserManagemetAPI\UserManagemetAPI\UserManagemetAPI\obj\Debug\net6.0\ref\UserManagemetAPI.dll
+E:\angular\UserManagemetAPI\UserManagemetAPI\UserManagemetAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\angular\UserManagemetAPI\UserManagemetAPI\UserManagemetAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

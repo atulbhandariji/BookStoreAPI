@@ -13,6 +13,9 @@ namespace UserManagemetAPI.Model
         public string Name { get; set; }
 
         [StringLength(150)]
+        public string UserName { get; set; }    
+
+        [StringLength(150)]
         public string LastName { get; set; }
 
         [StringLength(150)]
@@ -33,5 +36,7 @@ namespace UserManagemetAPI.Model
 
         [NotMapped]
         public string Designation { get; set; }
+        
+        public string Password { get; set; }
     }
 }

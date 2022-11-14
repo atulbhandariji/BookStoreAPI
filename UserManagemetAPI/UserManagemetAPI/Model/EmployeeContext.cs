@@ -13,5 +13,7 @@ namespace UserManagemetAPI.Model
 
         public DbSet<TBLDesignation> TBLDesignations { get; set; }
 
+        public DbSet<TBLUserCredential> TBLUserCredentials { get; set; }
+
     }
 }
